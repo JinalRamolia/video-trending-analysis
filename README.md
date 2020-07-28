@@ -1,5 +1,5 @@
 # video-trending-analysis
-YouTube Trending Videos Analysis
+Trending Videos Analysis
 YouTube (the world-famous video sharing website) maintains a list of the top-of-the-line videos on the network. According to Variety magazine, "YouTube uses a range of variables
 like calculating user interactions (number of downloads, shares, feedback and likes) to assess the year's top-trend videos. Remember that they are not the most watched videos 
 for the calendar year as a whole. The top performers on the YouTube trend list are music videos (such as the virile "Gangam Style"), celebrity and/or reality videos.
